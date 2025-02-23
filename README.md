@@ -8,53 +8,53 @@ This is a collection of VS Code extensions I've found super helpful. They range 
 
 ## The Essentials ✨
 
-- **streetsidesoftware.code-spell-checker:** Catches spelling errors so your code looks professional. 📝
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker): Catches spelling errors so your code looks professional. 📝
 
-- **dbaeumer.vscode-eslint:** Keeps your JavaScript code clean and consistent by flagging potential issues. 🧹
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Keeps your JavaScript code clean and consistent by flagging potential issues. 🧹
 
-- **esbenp.prettier-vscode:** Automatically formats your code, saving you time and ensuring a consistent style. ✨
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Automatically formats your code, saving you time and ensuring a consistent style. ✨
 
-- **tabnine.tabnine-vscode:** Provides AI-assisted code completion suggestions, making coding faster and more efficient. 🤖
+- [Tabnine AI Autocomplete](https://marketplace.visualstudio.com/items?itemName=tabnine.tabnine-vscode): Provides AI-assisted code completion suggestions, making coding faster and more efficient. 🤖
 
-- **eamodio.gitlens:** Enhances Git integration within VS Code, letting you easily see who made changes and when. 🕰️
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Enhances Git integration within VS Code, letting you easily see who made changes and when. 🕰️
 
 ## Productivity Boosters 🚀
 
-- **sleistner.vscode-fileutils:** Simplifies file and folder management tasks like renaming, duplicating, and moving. 🗂️
+- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils): Simplifies file and folder management tasks like renaming, duplicating, and moving. 🗂️
 
-- **ritwickdey.liveserver:** Automatically refreshes your browser when you save changes to your web project. 🌐
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver): Automatically refreshes your browser when you save changes to your web project. 🌐
 
-- **ms-vsliveshare.vsliveshare:** Enables real-time collaborative coding with others. 🤝
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare): Enables real-time collaborative coding with others. 🤝
 
-- **rangav.vscode-thunder-client:** A lightweight REST API client built into VS Code for testing your APIs. ⚡
+- [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client): A lightweight REST API client built into VS Code for testing your APIs. ⚡
 
-- **formulahendry.code-runner:** Allows you to run code snippets directly within VS Code. ▶️
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Allows you to run code snippets directly within VS Code. ▶️
 
-- **wix.vscode-import-cost:** Shows the size of your imports, helping you optimize your bundle size. 📦
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost): Shows the size of your imports, helping you optimize your bundle size. 📦
 
 ## Little Gems 💎
 
-- **adpyke.codesnap:** Creates beautiful screenshots of your code for sharing. 📸
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap): Creates beautiful screenshots of your code for sharing. 📸
 
-- **dsznajder.es7-react-js-snippets:** Provides a collection of useful React code snippets. ⚛️
+- [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets): Provides a collection of useful React code snippets. ⚛️
 
-- **pkief.material-icon-theme:** Gives your VS Code icons a fresh and modern look. 🎨
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme): Gives your VS Code icons a fresh and modern look. 🎨
 
-- **equinusocio.vsc-material-theme-icons:** Another popular icon theme option for VS Code. 🌈
+- [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=equinusocio.vsc-material-theme-icons): Another popular icon theme option for VS Code. 🌈
 
-- **chakrounanas.turbo-console-log:** Improves the way you use console logs for debugging. 🐞
+- [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=chakrounanas.turbo-console-log): Improves the way you use console logs for debugging. 🐞
 
-- **usernamehw.errorlens:** Highlights errors and warnings directly in your code. ⚠️
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens): Highlights errors and warnings directly in your code. ⚠️
 
-- **tomoki1207.pdf:** Allows you to view PDF files directly within VS Code. 📄
+- [PDF Viewer](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf): Allows you to view PDF files directly within VS Code. 📄
 
-- **ms-vscode-remote.remote-ssh:** Enables you to seamlessly develop on remote servers via SSH. 💻
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh): Enables you to seamlessly develop on remote servers via SSH. 💻
 
-- **mechatroner.rainbow-csv:** Makes working with CSV files easier by color-coding the data. 🌈
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv): Makes working with CSV files easier by color-coding the data. 🌈
 
-- **xabikos.javascriptsnippets:** Offers a variety of JavaScript code snippets to speed up development. ⌨️
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.javascriptsnippets): Offers a variety of JavaScript code snippets to speed up development. ⌨️
 
-- **wallabyjs.quokka-vscode:** Provides instant feedback on your JavaScript and TypeScript code as you write. 👀
+- [Quokka.js](https://marketplace.visualstudio.com/items?itemName=wallabyjs.quokka-vscode): Provides instant feedback on your JavaScript and TypeScript code as you write. 👀
 
 This list is always evolving, so I'll probably add more as I discover them. I hope you find some of these helpful! 🙏
 
@@ -63,7 +63,7 @@ This list is always evolving, so I'll probably add more as I discover them. I ho
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/osamamateen/vscode-extensions.git](https://github.com/osamamateen/vscode-extensions.git)
+    git clone https://github.com/osamamateen/vscode-extensions.git
     cd vscode-extensions
     ```
 
